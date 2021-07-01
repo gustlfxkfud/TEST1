@@ -3,5 +3,5 @@ function init(){
 }
 
 function clickFunc(){
-    this.style.backgroundColor = "blue";
+    this.style.backgroundColor="yellow";
 }
